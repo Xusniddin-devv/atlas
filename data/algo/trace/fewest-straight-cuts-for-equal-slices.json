@@ -1,0 +1,1 @@
+{"case":0,"sols":[{"ts":{"steps":[{"l":2,"d":0,"fn":"fewestCuts","v":{"n":6},"stack":[]},{"l":3,"d":0,"fn":"fewestCuts","v":{},"r":3}]},"py":{"steps":[{"l":3,"d":0,"fn":"fewestCuts","v":{"n":6},"stack":[]},{"l":5,"d":0,"fn":"fewestCuts","v":{},"r":3}]},"jsMap":{"1":1,"2":2,"3":3,"4":4},"notes":{"ts":{},"py":{}}}],"expected":3}

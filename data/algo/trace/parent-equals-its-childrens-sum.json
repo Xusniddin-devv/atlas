@@ -1,0 +1,1 @@
+{"case":0,"sols":[{"ts":{"steps":[{"l":2,"d":0,"fn":"parentIsChildSum","v":{"root":{"$tree":[9,4,5],"id":"root"}},"stack":[],"r":true}]},"py":{"steps":[{"l":3,"d":0,"fn":"parentIsChildSum","v":{"root":{"$tree":[9,4,5],"id":"root"}},"stack":[],"r":true}]},"jsMap":{"1":1,"2":2,"3":3},"notes":{"ts":{},"py":{}}}],"expected":true}
